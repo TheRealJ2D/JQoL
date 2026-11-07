@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="JQoL" width="112" height="112">
+   <img src="logo.png" alt="JQoL" width="112" height="112">
 
 # JQoL
 
