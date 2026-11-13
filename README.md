@@ -12,6 +12,7 @@ A clean, modern client-side mod that makes everyday Wynncraft smoother: smart al
 [![Downloads](https://img.shields.io/github/downloads/TheRealJ2D/JQoL/total?style=for-the-badge&label=Downloads&color=7cc4ff&labelColor=16171e)](https://github.com/TheRealJ2D/JQoL/releases)
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.11-ffc857?style=for-the-badge&labelColor=16171e)](#requirements)
 [![Fabric](https://img.shields.io/badge/Loader-Fabric-c08cff?style=for-the-badge&labelColor=16171e)](https://fabricmc.net/use/)
+[![License](https://img.shields.io/badge/License-All_Rights_Reserved-ff5c7a?style=for-the-badge&labelColor=16171e)](LICENSE)
 
 [**Download**](https://github.com/TheRealJ2D/JQoL/releases/latest) &nbsp;·&nbsp;
 [Features](#-features) &nbsp;·&nbsp;
@@ -223,6 +224,12 @@ Yes. Click the speaker icon at the top of the JQoL menu, use <code>/jqol mute</c
 <br>
 Please <a href="https://github.com/TheRealJ2D/JQoL/issues">open an issue</a>. Include your game version, JQoL version and steps to reproduce it.
 </details>
+
+---
+
+## 📄 License
+
+**All Rights Reserved.** You're free to download and play with JQoL, include it in modpacks that link to the official download, and show it in videos and streams. Re-uploading, selling, modifying or reusing its code or assets is not allowed without permission. See [LICENSE](LICENSE) for the full terms.
 
 ---
 
