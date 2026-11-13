@@ -188,8 +188,8 @@ A modern settings menu with search, accent colours and a drag-and-drop HUD edito
 
 | Language | Status |
 |---|---|
-| 🇬🇧 English | Full |
-| 🇸🇦 العربية | Full |
+| <img src="https://flagcdn.com/w40/gb.png" width="20" alt="UK flag"> &nbsp;English | Full |
+| <img src="https://flagcdn.com/w40/sa.png" width="20" alt="Saudi Arabia flag"> &nbsp;العربية | Full |
 
 ---
 
