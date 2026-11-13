@@ -1,6 +1,6 @@
 <div align="center">
 
-   <img src="logo.png" alt="JQoL" width="112" height="112">
+<img src="assets/logo.png" alt="JQoL" width="112" height="112">
 
 # JQoL
 
@@ -96,7 +96,6 @@ A modern settings menu with search, accent colours and a drag-and-drop HUD edito
 - **Ability map:** see any player's ability tree (when they've made it public).
 - **World hopper** with player counts, favourites and quick switching.
 - **Guild &amp; friends:** online guild members and your watchlist.
-- **Party ready check:** ask your party if they're ready and count the replies.
 
 </details>
 
@@ -178,7 +177,6 @@ A modern settings menu with search, accent colours and a drag-and-drop HUD edito
 | `/jqol worlds` | Open the world hopper |
 | `/jqol social` | Guild members and your watchlist |
 | `/jqol quests` | Open the quest checklist |
-| `/jqol ready` | Start a party ready check |
 | `/jqol fav add/remove/list` | Manage favourite reward items |
 
 > Every key can be changed in **Options → Controls → Key Binds → JQoL**.
