@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="logo.png" alt="JQoL" width="112" height="112">
-
-# JQoL
+<img src="banner.png" alt="JQoL Banner" width="100%">
 
 **Quality of life, made for Wynncraft.**
 
